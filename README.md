@@ -1,3 +1,10 @@
+Blob= https://aws.amazon.com/blogs/messaging-and-targeting/solving-abandon-cart-scenarios-using-amazon-pinpoints-event-triggered-journeys/
+
+Video= https://www.youtube.com/watch?v=l0yHQ5OJp-I&t=33s
+
+Video= https://www.youtube.com/watch?v=PEeYauc7Ns4
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
